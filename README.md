@@ -9,7 +9,7 @@ I blend **UI/UX design**, **frontend development**, and **multimedia creativity*
 - 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
 - 💻 Exploring **React.js, Node.js, and backend fundamentals**.  
 - 🎨 Skilled in **Adobe Creative Suite** (Photoshop, Illustrator, XD, Premiere Pro).  
-- ✍🏽 Creator of the **InspireTech Africa Daily Notes** — mixing motivation with tech insights.  
+- ✍🏽 Creator of the **InspireTech Africa Daily Notes**  mixing motivation with tech insights.  
 - 🎭 Active in **drama & creative storytelling**, bringing tech and art together.  
 
 
