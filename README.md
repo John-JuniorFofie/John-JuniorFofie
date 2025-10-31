@@ -35,4 +35,4 @@ Tech & Tools I Use
 - 🎨 My Portfolio: https://new-portfolio-liart-two.vercel.app 
 - 📧 Email:johnfofie31@gmail.com   
 
-Great visions matter  but action wins. 
+
