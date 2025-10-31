@@ -32,7 +32,7 @@ Tech & Tools I Use
  🌍 Connect With Me  
 - 💼 LinkedIn:[John Junior Fofie ](https://www.linkedin.com/in/john-junior-fofie-6371ab353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🐦 Twitter/X: [@johnfofie69 ](https://x.com/johnfofie69?s=11) 
-- 🎨 Behance/Dribbble: https://new-portfolio-liart-two.vercel.app 
+- 🎨 My Portfolio: https://new-portfolio-liart-two.vercel.app 
 - 📧 Email:johnfofie31@gmail.com   
 
 Great visions matter  but action wins. 
