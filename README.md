@@ -1,12 +1,14 @@
 
  <h2>ABOUT ME</h2>
-- 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
+<ul>
+ - 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
 - 💻 Exploring **React.js, Node.js, and backend fundamentals**.  
 - 🎨 Skilled in **Adobe Creative Suite** (Photoshop, Premiere Pro).  
 - ✍🏽 Creator of the **InspireTech Africa Daily Notes**  mixing motivation with tech insights.  
-- 🎭 Active in **drama & creative storytelling**, bringing tech and art together.  
+- 🎭 Active in **drama & creative storytelling**, bringing tech and art together. 
+</ul> 
 
-*TECH & TOOLS I USE* 
+<h2>TECH & TOOLS I USE</h2>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,postman,mongodb,nodejs,vite,vercel,expressjs,photoshop,"/>
 <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48"/>
