@@ -20,7 +20,7 @@ Tech & Tools I Use
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode" />
 </p>
 
  📌 Current Focus  
