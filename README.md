@@ -7,7 +7,7 @@
 <li>Active in drama & creative storytelling, bringing tech and art together. </li>
 </ul> 
 
-<h2>TECH & TOOLS I USE</h2>
+<h2>TECH STACK </h2>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,postman,mongodb,nodejs,vite,vercel,expressjs,photoshop,"/>
 <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48"/>
