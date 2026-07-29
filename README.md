@@ -1,5 +1,5 @@
 
- *ABOUT ME*  
+ <h2>ABOUT ME</h2>
 - 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
 - 💻 Exploring **React.js, Node.js, and backend fundamentals**.  
 - 🎨 Skilled in **Adobe Creative Suite** (Photoshop, Premiere Pro).  
