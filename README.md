@@ -11,11 +11,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,postman,mongodb,nodejs,vite,vercel,expressjs,photoshop,"/>
 <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48"/>
 </p>
- 📌 CURRENT FOCUS 
-- Building my portfolio as a React component
+ <h2>CURRENT FOCUS </h2>
+<ul>
+ - Building my portfolio as a React component
+
 - LEARNING<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
+
 - Expanding into full-stack development
-- Blending tech + media to impact African creatives  
+  
+- Blending tech + media to impact African creatives
+</ul>
 
  🌍 CONNECT WITH ME
 - 💼 LinkedIn:[John Junior Fofie ](https://www.linkedin.com/in/john-junior-fofie-6371ab353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
