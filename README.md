@@ -14,8 +14,8 @@ I blend **UI/UX design**, **frontend development**, and **multimedia creativity*
 
 *TECH & TOOLS I USE* 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,postman,mongodb,nodejs,vite,vercel,expressjs,photoshop,canva" />
-<img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,postman,mongodb,nodejs,vite,vercel,expressjs,photoshop,canva <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48"/>" />
+
 </p>
 
  📌 Current Focus  
