@@ -28,7 +28,7 @@
 </ul>
 
 <h2>📊 GitHub Stats</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-JuniorFofie&theme=dark&show_icons=false)
  <h2>🌍 CONNECT WITH ME</h2>
 <ul>
  <li>LinkedIn:[John Junior Fofie ](https://www.linkedin.com/in/john-junior-fofie-6371ab353?</li>
