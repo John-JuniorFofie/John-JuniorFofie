@@ -3,7 +3,7 @@
  A creative technologist passionate about **design, code, and storytelling**.  
 I blend **UI/UX design**, **frontend development**, and **multimedia creativity** to build experiences that inspire.
 
- 🌟 About Me  
+ *ABOUT ME*  
 - 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
 - 💻 Exploring **React.js, Node.js, and backend fundamentals**.  
 - 🎨 Skilled in **Adobe Creative Suite** (Photoshop, Premiere Pro).  
@@ -12,7 +12,7 @@ I blend **UI/UX design**, **frontend development**, and **multimedia creativity*
 
 
 
-Tech & Tools I Use  
+*TECH & TOOLS i USE* 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode" />
 </p>
