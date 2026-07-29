@@ -1,9 +1,7 @@
- 👋 Hi, I'm John Fofie  
+ Hi, I'm John Fofie  
 
-🚀 A creative technologist passionate about **design, code, and storytelling**.  
+ A creative technologist passionate about **design, code, and storytelling**.  
 I blend **UI/UX design**, **frontend development**, and **multimedia creativity** to build experiences that inspire.
-
-
 
  🌟 About Me  
 - 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
