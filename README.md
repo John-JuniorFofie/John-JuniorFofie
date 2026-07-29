@@ -13,7 +13,8 @@
 </p>
 
  📌 Current Focus  
-- Building my portfolio as a React component  
+- Building my portfolio as a React component
+- learning <img src="https://skillicons.dev/icons?i=c++,pythton,java"/>
 - Expanding into full-stack development
 - Blending tech + media to impact African creatives  
 
