@@ -31,5 +31,5 @@
  <li>LinkedIn:[John Junior Fofie ](https://www.linkedin.com/in/john-junior-fofie-6371ab353?</li>
  <li>Twitter/X: [@johnfofie69 ](https://x.com/johnfofie69?s=11) </li>
  <li>My Portfolio: https://new-portfolio-liart-two.vercel.app</li>
- <li>Email: [john@example.com](mailto:john@example.com)</li>
+ <li>Email:johnfofie31@gmail.com</li>
 </ul>
