@@ -13,12 +13,6 @@ I blend **UI/UX design**, **frontend development**, and **multimedia creativity*
 
 
 Tech & Tools I Use  
-- **Frontend:** React.js, HTML, CSS, Tailwind, JavaScript  
-- **Backend:** Node.js, Express, MongoDB 
-- **Design:** Figma, Adobe Photoshop, Premiere Pro  
-- **Other:** Git/GitHub, Postman, VS Code  
-
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode" />
 </p>
