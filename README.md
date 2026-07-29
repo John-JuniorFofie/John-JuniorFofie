@@ -1,11 +1,10 @@
 
  <h2>ABOUT ME</h2>
 <ul>
- - 🎓 Currently building projects after my journey at **Design & Technology Institute (DTI)**.  
-- 💻 Exploring **React.js, Node.js, and backend fundamentals**.  
-- 🎨 Skilled in **Adobe Creative Suite** (Photoshop, Premiere Pro).  
-- ✍🏽 Creator of the **InspireTech Africa Daily Notes**  mixing motivation with tech insights.  
-- 🎭 Active in **drama & creative storytelling**, bringing tech and art together. 
+<li> Currently building projects after my journey at **Design & Technology Institute (DTI)**.</li>  
+<li>Exploring **c++,python, and java**.</li>  
+<li>Skilled in **Adobe Creative Suite** (Photoshop, Premiere Pro).</li>   
+<li>Active in **drama & creative storytelling**, bringing tech and art together. </li>
 </ul> 
 
 <h2>TECH & TOOLS I USE</h2>
