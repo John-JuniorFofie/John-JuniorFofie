@@ -13,13 +13,17 @@
 </p>
  <h2>CURRENT FOCUS </h2>
 <ul>
-- Building my portfolio as a React component
-
-- LEARNING <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
-
-- Expanding into full-stack development
-  
-- Blending tech + media to impact African creatives
+<li>
+ Building my portfolio as a React component
+</li> 
+<li>
+  LEARNING
+<p>
+   <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
+</p>
+</li>
+<li>Expanding into full-stack development</li>
+<li>Blending tech + media to impact African creatives</li>
 </ul>
 
  🌍 CONNECT WITH ME
