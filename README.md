@@ -21,6 +21,9 @@ Tech & Tools I Use
 - **Other:** Git/GitHub, Postman, VS Code  
 
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,wordpress,figma,git,github,vscode,nextjs&theme=dark" />
+</p>
 
  📌 Current Focus  
 - Building my portfolio as a React component  
