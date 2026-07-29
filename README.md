@@ -13,9 +13,9 @@
 </p>
  <h2>CURRENT FOCUS </h2>
 <ul>
- - Building my portfolio as a React component
+- Building my portfolio as a React component
 
-- LEARNING<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
+- LEARNING <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
 
 - Expanding into full-stack development
   
