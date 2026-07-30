@@ -20,7 +20,7 @@
 <li>
   LEARNING
 <p>
-   <img src="https://skillicons.dev/icons?i=cpp,python,java"/>
+   <img src="https://skillicons.dev/icons?i=python,cpp,java"/>
 </p>
 </li>
 <li>Expanding into full-stack development</li>
