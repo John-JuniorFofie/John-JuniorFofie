@@ -1,7 +1,7 @@
 
  <h2>ABOUT ME</h2>
 <ul>
-<li> Currently building projects after my journey at Design & Technology Institute (DTI).</li>  
+<li> Currently studying computer science after my journey at Design & Technology Institute (DTI).</li>  
 <li>Exploring c++,python, and java.</li>  
 <li>Skilled in Adobe Creative Suite (Photoshop, Premiere Pro).</li>   
 <li>Active in drama & creative storytelling, bringing tech and art together. </li>
